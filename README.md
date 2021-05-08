@@ -10,3 +10,11 @@ A python script that helps to send notification to the authority after observing
 - Type git clone, and then paste the URL you copied earlier.
 
       $ git clone https://github.com/prateek27das/Shield_Notification
+      
+ ## Contributing
+- Fork it
+- Create your feature branch (git checkout -b my-new-feature)
+- Commit your changes (git commit -m 'Add some feature')
+- Push your branch (git push origin my-new-feature)
+- Create a new Pull Request
+      
